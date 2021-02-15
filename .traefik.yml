@@ -1,0 +1,9 @@
+displayName: Openstack Compute instances
+type: provider
+
+import: github.com/Adirelle/traefik_os_provider
+
+summary: 'Provides dynamic configuration for Openstack Compute instances'
+
+testData:
+  pollInterval: 5s
